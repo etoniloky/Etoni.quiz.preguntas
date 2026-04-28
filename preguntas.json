@@ -1,5 +1,3 @@
-Aquí tienes tu JSON con la nueva categoría "Deportes" añadida y todas las preguntas incorporadas:
-
 {
   "Historia": [
     { "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?", "respuesta": "1939" }
